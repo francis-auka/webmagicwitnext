@@ -6,6 +6,7 @@ import CoreValueProp from './components/CoreValueProp';
 import KeyFeatures from './components/KeyFeatures';
 import AboutUs from './components/AboutUs';
 import OurProcess from './components/OurProcess';
+import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -20,6 +21,7 @@ function App() {
         <KeyFeatures />
         <AboutUs />
         <OurProcess />
+        <Pricing />
         <Contact />
       </main>
       <Footer />

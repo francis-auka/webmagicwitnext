@@ -11,6 +11,7 @@ const Navbar = () => {
                     <a href="#home" className="hover:text-magic-purple transition-colors">Home</a>
                     <a href="#about" className="hover:text-magic-purple transition-colors">About</a>
                     <a href="#process" className="hover:text-magic-purple transition-colors">Process</a>
+                    <a href="#pricing" className="hover:text-magic-purple transition-colors">Pricing</a>
                     <a href="#contact" className="hover:text-magic-purple transition-colors">Contact</a>
                     <a href="https://github.com/francis-auka" target="_blank" rel="noopener noreferrer" className="hover:text-magic-purple transition-colors">GitHub</a>
                     <a href="https://www.linkedin.com/in/francis-auka/" target="_blank" rel="noopener noreferrer" className="hover:text-magic-purple transition-colors">LinkedIn</a>
